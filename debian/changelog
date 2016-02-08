@@ -1,0 +1,6 @@
+sudosh2 (1.0.6-1~fn1) unstable; urgency=low
+
+  * Initial release.
+  * Fixed config file install path.
+
+ -- Sander Klein <github@roedie.nl>  Mon, 08 Feb 2016 14:54:10 +0100
